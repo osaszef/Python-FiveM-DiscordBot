@@ -1,0 +1,16 @@
+{
+    "discordBot":[
+        {
+            "token": "",
+            "prefix": "!"
+        }
+    ],
+
+    "fivemServer": [
+        {
+            "serverIP": "",
+            "serverPort": "",
+            "slots": "64"
+        }
+    ]
+}
